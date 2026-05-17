@@ -51,4 +51,5 @@ $ NODE_OPTIONS="--max-old-space-size=24576" npx mocha --require coffeescript/reg
 
 
 # Play online
-https://github.com/happyclam/toriShogi/docs/index.html
+https://happyclam.github.io/toriShogi/
+
