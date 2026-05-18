@@ -7,7 +7,7 @@
    width="500"
    height="500"
    viewBox="0 0 500 500"
-   sodipodi:docname="s_tsuru.svg"
+   sodipodi:docname="s_ka_image.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -44,7 +44,7 @@
      inkscape:label="trace">
     <g
        id="g250"
-       transform="matrix(1,0,0,-1,0,512.54695)">
+       transform="rotate(180,247.11491,256.27348)">
       <path
          style="fill:#646464;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 265.13854,384.31255 11.51443,30.32437 -6.69326,55.97251 -17.66347,-0.2189 -7.93743,7.83464 28.58616,1.45416 8.37796,-67.28405 -9.15904,-31.31808 z"

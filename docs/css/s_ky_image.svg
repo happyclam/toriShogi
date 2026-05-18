@@ -7,7 +7,7 @@
    width="500"
    height="500"
    viewBox="0 0 500 500"
-   sodipodi:docname="s_taka.svg"
+   sodipodi:docname="s_ky_image.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -44,7 +44,7 @@
      inkscape:label="trace">
     <g
        id="g450"
-       transform="matrix(1,0,0,-1,0,503.19988)">
+       transform="rotate(180,250.04713,251.59994)">
       <path
          style="fill:#d6d6d6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 162.60709,347.62592 -17.25615,30.61032 -5.23057,18.83612 -15.75073,48.71246 -0.53848,18.63209 6.09493,7.84453 4.99585,0.74274 6.42907,-4.01862 9.17298,-7.54002 7.59947,11.29346 4.04858,2.11845 4.80203,-0.75626 9.79302,-11.6559 7.01492,10.80247 h 4.45464 l 11.34816,-8.4001 14.19412,11.78699 7.5367,-13.91883 -1.76613,-40.6646 -17.85953,-82.61754 z"
