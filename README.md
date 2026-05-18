@@ -7,15 +7,15 @@
 
 |駒の種類  | 楷書駒 | 毛筆駒 | イラスト駒 |
 |:-----  | :-----: | :-----: | :-----: |
-| 鵬<br />Ootori | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ou.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ou_m.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ou_image.svg" width="64"> |
-| 鷹<br />Taka | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ky.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ky_m.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ky_image.svg" width="64"> |
-| 鵰<br />Kumataka | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ny.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ny_m.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ny_image.svg" width="64"> |
-| 鶴<br />Tsuru | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ka.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ka_m.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ka_image.svg" width="64"> |
-| 雉<br />Kizi | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ki.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ki_m.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_ki_image.svg" width="64"> |
-| 左鶉<br />Hidari Uzura | <img style="clip-path: polygon(50% 0%, 95% 25%, 100% 100%, 15% 100%, 0 85%, 10% 25%); background: #f0b53a;" src="./docs/img/f_gi.svg" width="64"> | <img style="clip-path: polygon(50% 0%, 95% 25%, 100% 100%, 15% 100%, 0 85%, 10% 25%); background: #f0b53a;" src="./docs/img/f_gi_m.svg" width="64"> | <img style="clip-path: polygon(50% 0%, 95% 25%, 100% 100%, 15% 100%, 0 85%, 10% 25%); background: #f0b53a;" src="./docs/img/f_gi_image.svg" width="64"> |
-| 右鶉<br />Migi Uzura | <img style="clip-path: polygon(50% 0%, 90% 25%, 100% 85%, 85% 100%, 0 100%, 10% 25%); background: #f0b53a;" src="./docs/img/f_ke.svg" width="64"> | <img style="clip-path: polygon(50% 0%, 90% 25%, 100% 85%, 85% 100%, 0 100%, 10% 25%); background: #f0b53a;" src="./docs/img/f_ke_m.svg" width="64"> | <img style="clip-path: polygon(50% 0%, 90% 25%, 100% 85%, 85% 100%, 0 100%, 10% 25%); background: #f0b53a;" src="./docs/img/f_ke_image.svg" width="64"> |
-| 燕<br />Tsubame | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_fu.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_fu_m.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_fu_image.svg" width="64"> |
-| 雁<br />Kari | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_to.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_to_m.svg" width="64"> | <img style="clip-path: polygon(50% 0, 95% 25%, 100% 100%, 0 100%, 5% 25%); background: #f0b53a;" src="./docs/img/f_to_image.svg" width="64"> |
+| 鵬<br />Ootori | <img src="./github/f_ou.svg" width="64"> | <img src="./github/f_ou_m.svg" width="64"> | <img src="./github/f_ou_image.svg" width="64"> |
+| 鷹<br />Taka | <img src="./github/f_ky.svg" width="64"> | <img src="./github/f_ky_m.svg" width="64"> | <img src="./github/f_ky_image.svg" width="64"> |
+| 鵰<br />Kumataka | <img src="./github/f_ny.svg" width="64"> | <img src="./github/f_ny_m.svg" width="64"> | <img src="./github/f_ny_image.svg" width="64"> |
+| 鶴<br />Tsuru | <img src="./github/f_ka.svg" width="64"> | <img src="./github/f_ka_m.svg" width="64"> | <img src="./github/f_ka_image.svg" width="64"> |
+| 雉<br />Kizi | <img src="./github/f_ki.svg" width="64"> | <img src="./github/f_ki_m.svg" width="64"> | <img src="./github/f_ki_image.svg" width="64"> |
+| 左鶉<br />Hidari Uzura | <img src="./github/f_gi.svg" width="64"> | <img src="./github/f_gi_m.svg" width="64"> | <img src="./github/f_gi_image.svg" width="64"> |
+| 右鶉<br />Migi Uzura | <img src="./github/f_ke.svg" width="64"> | <img src="./github/f_ke_m.svg" width="64"> | <img src="./github/f_ke_image.svg" width="64"> |
+| 燕<br />Tsubame | <img src="./github/f_fu.svg" width="64"> | <img src="./github/f_fu_m.svg" width="64"> | <img src="./github/f_fu_image.svg" width="64"> |
+| 雁<br />Kari | <img src="./github/f_to.svg" width="64"> | <img src="./github/f_to_m.svg" width="64"> | <img src="./github/f_to_image.svg" width="64"> |
 
 
 # 関連記事
@@ -31,6 +31,8 @@
 
 # ビルド
 ```
+$ node --version
+v18.20.8
 $ npm install
 $ npm run dev
 ```
